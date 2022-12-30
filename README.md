@@ -10,7 +10,6 @@
 With a solid foundation in web development technologies such as the MERN stack, HTML, CSS, and JavaScript, as well as expertise in SEO and online advertising. confident and ability to deliver high-quality, user-friendly, seo-friendly websites and digital marketing campaigns. well-rounded candidate with capability of handling a wide range of tasks and responsibilities in the tech industry.
 
 # 💫 About Me:
-<br>
 👯 I’m looking to collaborate on Good Tech Skills<br>
 🌱 I’m currently learning Full Stack Web Development<br>
 💬 Ask me about Coding...<br>
