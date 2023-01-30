@@ -29,7 +29,7 @@ Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.
 <li>
   <a href="https://www.linkedin.com/in/vicky-paswan/" target="blank">Linkedin</a></li>
   <li>
-    <a href="https://vicky-masai.github.io/" target="blank">Portfolio</a>
+    <a href="https://iamvicky.dev/" target="blank">Portfolio</a>
   </li>
 </ul>
 
