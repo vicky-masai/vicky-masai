@@ -18,7 +18,7 @@ With a solid foundation in web development technologies such as the MERN stack, 
 ⚡ Quick learner<br>
 💬 Ask me about Mongodb, express, React, Node, Javascript, HTML, CSS, DSA, Digital Marketing<br>
 
-📫 How to reach me: [hajipurtech@gmail.com](mailto:hajipurtech@gmail.com)<br>
+<!-- 📫 How to reach me: [hajipurtech@gmail.com](mailto:hajipurtech@gmail.com)<br> -->
 
 ⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=share_link)<br>
 
