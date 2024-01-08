@@ -7,20 +7,20 @@
 
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=0)](https://visitcount.itsvg.in)
 ### Summary
-With a solid foundation in web development technologies such as the MERN stack, HTML, CSS, and JavaScript, as well as expertise in SEO and online advertising. confident and ability to deliver high-quality, user-friendly, seo-friendly websites and digital marketing campaigns. well-rounded candidate with capability of handling a wide range of tasks and responsibilities in the tech industry.
+With a solid foundation in web development technologies such as the MERN stack, HTML, CSS, and JavaScript, as well as expertise in SEO and online advertising. Confident and ability to deliver high-quality, user-friendly, SEO-friendly websites and digital marketing campaigns. Well-rounded candidate with the capability of handling a wide range of tasks and responsibilities in the tech industry.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>
 🌱 I’m currently learning Full Stack Web Development<br>
 💬 Ask me about Coding...<br>
-👯 Interested in ai technologies...<br>
+👯 Interested in AI technologies...<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Mongodb, express, React, Node, Javascript, HTML, CSS, DSA, Digital Marketing<br>
+💬 Ask me about MongoDB, Express, React, Node, Javascript, HTML, CSS, DSA, Digital Marketing<br>
 
 📫 How to reach me: [hajipurtech@gmail.com](https://vicky-masai.github.io/)<br>
 
-⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=share_link)<br>
+⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=sharing)<br>
 
 Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.io/)
 
