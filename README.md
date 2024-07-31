@@ -16,7 +16,30 @@ I have a solid foundation in web development technologies, including the MERN st
 💬 Ask me about coding, new tech trends, and AI<br>
 👯 Interested in AI and machine learning<br>
 👯 Self-motivated and driven<br>
-⚡ Quick learner and tech enthusiast<br>
+⚡ Quick learner and tech enthusiast<be>
+
+## Skills
+### Frontend:
+React | Redux | TailwindCSS | Angular | Vue.js | Next.js | Svelte | jQuery | Bootstrap | Sass
+
+### Backend:
+NodeJS | Express.js | NestJS | Socket.io | Koa | Hapi | Fastify | AdonisJS | FeathersJS | Meteor
+
+### Database:
+PostgreSQL | MongoDB | MySQL | SQLite | Redis | Firebase | Cassandra | CouchDB | MariaDB | OracleDB
+
+### ORM:
+Prisma | Sequelize | Mongoose
+
+### Deployment:
+Docker | Kubernetes | AWS | Azure | Heroku | Netlify | Vercel | DigitalOcean | GitHub Actions | Jenkins
+
+## Experience
+- Built SaaS product for API selling platform
+- Developed a LinkedIn clone social media web app
+- Managing a team of 50+ developers
+
+Want to know more about my skills and projects? Feel free to reach out!
 
 📫 How to reach me: [hajipurtech@gmail.com](https://vicky-masai.github.io/)<br>
 
@@ -27,7 +50,6 @@ Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/vicky-paswan/" target="blank">Linkedin</a></li>
-  <li><a href="https://iamvicky.dev/" target="blank">Portfolio</a></li>
 </ul>
 
 <h3>Languages & Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3> 
@@ -62,63 +84,4 @@ Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vicky-masai&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-## Skills
-### Frontend:
-- React
-- Redux
-- TailwindCSS
-- Angular
-- Vue.js
-- Next.js
-- Svelte
-- jQuery
-- Bootstrap
-- Sass
 
-### Backend:
-- NodeJS
-- Express.js
-- NestJS
-- Socket.io
-- Koa
-- Hapi
-- Fastify
-- AdonisJS
-- FeathersJS
-- Meteor
-- 
-### Database:
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Redis
-- Firebase
-- Cassandra
-- CouchDB
-- MariaDB
-- OracleDB
-
-### ORM:
-- Prisma
-- Sequelize
-- Mongoose
-
-### Deployment:
-- Docker
-- Kubernetes
-- AWS
-- Azure
-- Heroku
-- Netlify
-- Vercel
-- DigitalOcean
-- GitHub Actions
-- Jenkins
-
-## Experience
-- Built SaaS product for API selling platform
-- Developed a LinkedIn clone social media web app
-- Managing a team of 50+ developers
-
-Want to know more about my skills and projects? Feel free to reach out!
