@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ### Summary
-I have a solid foundation in web development technologies, including the MERN stack, HTML, CSS, and JavaScript. My expertise extends to both frontend and backend JavaScript libraries, and I am proficient in using PostgreSQL, MongoDB, and Prisma ORM. With experience in SEO and online advertising, I am confident in delivering high-quality, user-friendly, and SEO-friendly websites and digital marketing campaigns. My well-rounded skill set includes deployment and managing large developer teams, having built SaaS products for API selling platforms and developed LinkedIn clone social media web apps. I am a capable and reliable candidate, ready to handle a wide range of tasks and responsibilities in the tech industry.
+Results-oriented Product Manager with over 4 years of experience in software development and product management. Skilled in strategic project management, team leadership, and driving product innovation. Proven ability to manage cross-functional teams and deliver high-quality software solutions. Seeking a challenging role to leverage technical expertise and drive product excellence.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on advanced tech projects <br>
