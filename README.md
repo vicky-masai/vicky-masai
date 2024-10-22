@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I am Vicky Kumar</h1>
+<h1 align="center">Hi 👋, I am Vicky Paswan</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Digital+Marketing+Expert;Quick+Learner;Problem+Solver;&color=teal&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CTO;Product+Manager;SaaS+Product+Development;&center=true" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l5o174j0zohrwmjjk1zc2w82swqc0fk42xwjp33t&rid=giphy.gif&ct=g">
 
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ### Summary
-Results-oriented Product Manager with over 4 years of experience in software development and product management. Skilled in strategic project management, team leadership, and driving product innovation. Proven ability to manage cross-functional teams and deliver high-quality software solutions. Seeking a challenging role to leverage technical expertise and drive product excellence.
+Vicky Paswan is the CTO at AptoAPI, where he leads the development and technical strategies for building scalable, high-impact SaaS products. His expertise spans full-stack web development, team leadership, and product management. Promoted from Product Manager to CTO due to his performance, Vicky has successfully spearheaded the development of SaaS solutions that have significantly boosted the company's profile. His focus is on delivering innovative technology solutions, optimizing operational efficiency, and driving product excellence to foster growth.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on advanced tech projects <br>
-🌱 I’m currently exploring cutting-edge technologies<br>
-💬 Ask me about coding, new tech trends, and AI<br>
-👯 Interested in AI and machine learning<br>
-👯 Self-motivated and driven<br>
-⚡ Quick learner and tech enthusiast<be>
+🌱 Currently exploring new technologies and expanding my horizons<br>
+💬 Ask me about coding, new tech trends, AI, and product strategy<br>
+👯 Passionate about SaaS and AI-driven products<br>
+👯 Self-motivated, tech-savvy, and results-driven<br>
+⚡ Always learning, always improving<br>
 
 ## Skills
+
 ### Frontend:
 React | Redux | TailwindCSS | Angular | Vue.js | Next.js | Svelte | jQuery | Bootstrap | Sass
 
@@ -26,7 +26,7 @@ React | Redux | TailwindCSS | Angular | Vue.js | Next.js | Svelte | jQuery | Boo
 NodeJS | Express.js | NestJS | Socket.io | Koa | Hapi | Fastify | AdonisJS | FeathersJS | Meteor
 
 ### Database:
-PostgreSQL | MongoDB | MySQL | SQLite | Redis | Firebase | Cassandra | CouchDB | MariaDB | OracleDB
+PostgreSQL | MongoDB | MySQL | SQLite | Redis | Firebase | Cassandra | CouchDB | MariaDB | OracleDB | Neo4j
 
 ### ORM:
 Prisma | Sequelize | Mongoose
@@ -34,25 +34,30 @@ Prisma | Sequelize | Mongoose
 ### Deployment:
 Docker | Kubernetes | AWS | Azure | Heroku | Netlify | Vercel | DigitalOcean | GitHub Actions | Jenkins
 
-## Experience
-- Built SaaS product for API selling platform
-- Developed a LinkedIn clone social media web app
-- Managing a team of 50+ developers
+### Other Skills:
+- **GraphQL & API Management:** Apollo GraphQL, REST APIs, gofiber
+- **Psychology & Behavioral Insights:** Cognitive Psychology, Behavior Analysis, Motivational Psychology, Stress Management
+- **Management & Leadership:** Learning and Development, Negotiation and Conflict Resolution, Change Management, Empathy, Team Management, Leading Development Teams
+- **Product Development:** Product Vision, Product Requirements, Business Analysis, Problem Solving, Product Operations, Go-to-Market Strategy, Wireframing, Development Coordination
+- **Marketing & SEO:** Product Marketing, SEO Audits, On-Page Optimization, Sales Funnel Management, Google Analytics, Google Search Console
+- **Design & UX:** User-Centered Design (UCD), Communication and Interpersonal Skills, Problem-Solving and Critical Thinking
+- **Development Practices:** Agile Methodologies, GitHub, OAuth, Social Login, Chatbot Development, 2D Animation, Web Chat
 
-Want to know more about my skills and projects? Feel free to reach out!
+## Experience
+- Developed a successful SaaS product for API selling, now widely used by clients
+- Built a LinkedIn clone social media web app
+- Managing a team of 50+ developers, overseeing product strategy and operations
 
 📫 How to reach me: [hajipurtech@gmail.com](https://vicky-masai.github.io/)<br>
-
-⚡ Want to Know More About My Experience: [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=sharing)<br>
-
+⚡ Want to Know More About My Experience? [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=sharing)<br>
 Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/in/vicky-paswan/" target="blank">Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/vicky-paswan/" target="blank">LinkedIn</a></li>
 </ul>
 
-<h3>Languages & Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3> 
+<h3>Languages & Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -83,5 +88,3 @@ Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vicky-masai&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-
