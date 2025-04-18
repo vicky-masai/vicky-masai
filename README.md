@@ -48,7 +48,7 @@ Docker | Kubernetes | AWS | Azure | Heroku | Netlify | Vercel | DigitalOcean | G
 - Built a LinkedIn clone social media web app
 - Managing a team of 50+ developers, overseeing product strategy and operations
 
-📫 How to reach me: [hajipurtech@gmail.com](https://vicky-masai.github.io/)<br>
+📫 How to reach me: [hajipurtech@gmail.com](https://ap0t.com/)<br>
 ⚡ Want to Know More About My Experience? [Check out My Resume](https://drive.google.com/file/d/19nt2wOZrPOHpv_2yf1ZL4WJj_HBJ0lmQ/view?usp=sharing)<br>
 Want to know more about me? [Check out My Portfolio](https://vicky-masai.github.io/)
 
