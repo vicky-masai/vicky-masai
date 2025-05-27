@@ -7,7 +7,13 @@
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ### Summary
-Vicky Paswan is the CTO at AptoAPI, where he leads the development and technical strategies for building scalable, high-impact SaaS products. His expertise spans full-stack web development, team leadership, and product management. Promoted from Product Manager to CTO due to his performance, Vicky has successfully spearheaded the development of SaaS solutions that have significantly boosted the company's profile. His focus is on delivering innovative technology solutions, optimizing operational efficiency, and driving product excellence to foster growth.
+I’m Vicky Kumar, a full-stack developer and AI enthusiast with 3.5+ years of experience building scalable web platforms and AI-driven solutions. Recently, I’ve shifted focus to AI agent development—creating intelligent, multi-agent systems using tools like LangChain, LangGraph, and CrewAI.
+
+I’ve worked with 80+ businesses, combining my expertise in Next.js, Node.js, and React with AI tools to craft smart, responsive platforms. My strength lies in understanding client needs and delivering functional, automation-first solutions that boost growth and efficiency.
+
+From LLM integration and RAG pipelines to deploying AI-powered web and mobile apps, I provide end-to-end support.
+
+Explore my work at ap0t.com or connect at hajipurtech@gmail.com.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on advanced tech projects <br>
