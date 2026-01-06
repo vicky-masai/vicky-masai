@@ -2,7 +2,7 @@
 <h3 align="center">Senior Backend Engineer | Rust | Distributed Systems</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+Engineer;Distributed+Systems;High-Performance+APIs;ERP+Scale+Systems;&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+Engineer;Distributed+Systems;High-Performance+APIs;ERP-Scale+Backends;&center=true" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=2)](https://visitcount.itsvg.in)
@@ -11,28 +11,28 @@
 
 ## 🧠 Summary
 
-Backend Engineer with **5+ years of experience** designing and building **high-performance, scalable backend systems**.
+Senior Backend Engineer with **5+ years of experience** building **high-performance, scalable, and cost-efficient backend systems** used in real production environments.
 
-Specialized in **Rust-based backend architecture**, focusing on:
-- correctness under concurrency  
-- predictable latency  
-- cost-efficient infrastructure  
-- long-term maintainability  
+My work is focused on **Rust-based backend architecture**, with emphasis on:
+- correctness under high concurrency  
+- predictable latency at scale  
+- infrastructure cost efficiency  
+- long-term system maintainability  
 
-I build **ERP-grade systems**, not demo projects — systems that handle **real traffic, real data, and real failures**.
+I design and operate **ERP-grade systems**, not demos — systems that handle **real traffic, real data, and real failure modes**.
 
-Primary stack: **Rust · Axum · PostgreSQL · AWS**
+**Primary stack:** Rust · Axum · PostgreSQL · AWS
 
 ---
 
 ## 🧩 What I Build (Backend Only)
 
-- High-throughput REST APIs (Rust + Axum)
-- Distributed, stateless backend services
+- High-throughput REST APIs using Rust + Axum
+- Stateless, horizontally scalable backend services
 - Transaction-safe systems (inventory, orders, ledgers)
-- Multi-tenant ERP backends
-- Cost-optimized cloud architectures
-- Failure-resilient, idempotent APIs
+- Multi-tenant ERP backends with strict isolation
+- Cost-optimized cloud-native architectures
+- Failure-resilient, idempotent API designs
 
 ---
 
@@ -43,22 +43,22 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 **Tech:** Rust, Axum, PostgreSQL
 
 - Multi-tenant WMS supporting **100+ warehouses**
-- Inventory ledger with append-only stock movements
+- Append-only inventory ledger for deterministic stock accuracy
 - Order lifecycle engine with atomic state transitions
 - Inbound / outbound logistics pipelines
-- RBAC with audit-grade logging
-- Strong consistency using PostgreSQL transactions
+- Role-based access control with audit-grade logging
+- Strong consistency enforced via PostgreSQL transactions
 
 **Engineering Highlights**
-- Async Rust (Tokio) for high concurrency
-- Idempotent APIs to avoid double writes
-- Schema designed for correctness, not convenience
-- Stateless services → horizontal scaling
+- Async Rust (Tokio) for high-concurrency workloads
+- Idempotent APIs to prevent duplicate writes
+- Schemas designed for correctness over convenience
+- Stateless services enabling horizontal scaling
 
 **Impact**
-- ~5–10× latency improvement
-- ~70% memory reduction
-- ~60% cloud cost reduction after Rust migration
+- **5–10× latency improvement**
+- **~70% memory reduction**
+- **~60% cloud cost reduction** after migrating critical services to Rust
 
 ---
 
@@ -66,8 +66,8 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 
 **Tech:** Rust, PostgreSQL
 
-- Append-only stock ledger (IN / OUT / ADJUST)
-- Snapshot + replay model
+- Append-only stock movement ledger (IN / OUT / ADJUST)
+- Snapshot + replay model for fast recovery and audits
 - Deterministic inventory reconstruction
 - Safe under concurrent warehouse operations
 
@@ -77,10 +77,10 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 
 **Tech:** Rust, Axum, PostgreSQL
 
-- Explicit order state machine
+- Explicit, deterministic order state machine
 - Transaction-safe multi-table updates
 - Retry-safe and idempotent endpoints
-- Designed to survive partial failures
+- Designed to tolerate partial system failures
 
 ---
 
@@ -88,9 +88,9 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 
 **Tech:** Rust
 
-- Fine-grained permission model
-- Multi-tenant isolation
-- Middleware-level enforcement
+- Fine-grained permission model (role → resource → action)
+- Strong multi-tenant isolation
+- Middleware-level authorization enforcement
 - Fully auditable permission changes
 
 ---
@@ -100,19 +100,19 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 **Tech:** Rust, Async IO
 
 - Token-based authentication
-- Rate limiting & usage tracking
-- Designed for minimal latency and memory usage
-- Protects downstream services under traffic spikes
+- Rate limiting and usage tracking
+- Optimized for minimal latency and memory overhead
+- Protects downstream services during traffic spikes
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-- Correctness > cleverness  
+- Correctness > clever abstractions  
 - Predictable systems > fast hacks  
-- Strong schemas > loose JSON  
+- Strong schemas > loose JSON contracts  
 - Fewer services > unnecessary microservices  
-- Rust for places where **performance and safety matter**
+- Rust where **performance and safety truly matter**
 
 ---
 
@@ -125,18 +125,18 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 - Axum, Tokio, async/await
 - REST API design
 - Concurrency & memory safety
-- Idempotency & retries
-- Multi-tenant architectures
+- Idempotency, retries, fault tolerance
+- Multi-tenant system architecture
 
 ### Databases
 - PostgreSQL
-- Transactions, isolation levels
+- ACID transactions, isolation levels
 - Indexing & query optimization
 
-### Cloud & Infra
+### Cloud & Infrastructure
 - AWS (EC2, S3, IAM, CloudWatch)
 - Docker
-- Kubernetes (production-aware basics)
+- Kubernetes (production-aware)
 - CI/CD pipelines
 
 ---
@@ -156,9 +156,9 @@ Primary stack: **Rust · Axum · PostgreSQL · AWS**
 
 ## 📫 Contact
 
-- 📧 Email: hajipurtech@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/vicky-paswan/
+- 📧 Email: hajipurtech@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vicky-paswan/  
 
 ---
 
-> I specialize in building backend systems that **don’t break at scale**.
+> I specialize in building backend systems that **do not break at scale**.
