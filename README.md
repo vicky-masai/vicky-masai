@@ -1,143 +1,150 @@
 <h1 align="center">Hi 👋, I am Vicky Kumar</h1>
-<h3 align="center">Senior Backend Engineer | Rust | Distributed Systems</h3>
+<h3 align="center">Senior Software Engineer | Backend & Distributed Systems (Rust)</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+Engineer;Distributed+Systems;High-Performance+APIs;ERP-Scale+Backends;&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+Engineer;Distributed+Systems;High-Concurrency+Systems;ERP+and+Fintech+Backends;Agentic+AI+Pipelines;&center=true" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=2)](https://visitcount.itsvg.in)
 
 ---
 
-## 🧠 Summary
+## 🧠 About Me
 
-Senior Backend Engineer with **5+ years of experience** building **high-performance, scalable, and cost-efficient backend systems** used in real production environments.
+I’m **Vicky Kumar**, a **Senior Software Engineer** with **5+ years of experience** building **high-concurrency backend systems and distributed architectures** used in real production environments.
 
-My work is focused on **Rust-based backend architecture**, with emphasis on:
-- correctness under high concurrency  
+My core expertise lies in **Rust-based backend engineering**, where I focus on:
+- correctness under concurrency  
 - predictable latency at scale  
 - infrastructure cost efficiency  
-- long-term system maintainability  
+- deterministic, auditable system design  
 
-I design and operate **ERP-grade systems**, not demos — systems that handle **real traffic, real data, and real failure modes**.
+Alongside Rust, I bring **strong practical experience across Node.js, cloud platforms, PostgreSQL at scale, and agentic AI systems**, enabling me to own complex systems end-to-end.
 
-**Primary stack:** Rust · Axum · PostgreSQL · AWS
+I specialize in **ERP, Fintech, and high-scale E-commerce backends** — systems that handle **real traffic, real money, and real failures**.
 
 ---
 
-## 🧩 What I Build (Backend Only)
+## 🧩 What I Build (Systems-Level Focus)
 
-- High-throughput REST APIs using Rust + Axum
-- Stateless, horizontally scalable backend services
+- High-throughput REST & event-driven APIs
+- Distributed, stateless backend services
 - Transaction-safe systems (inventory, orders, ledgers)
-- Multi-tenant ERP backends with strict isolation
+- Multi-tenant ERP platforms
+- Append-only ledger & audit systems
+- Agentic AI backends with deterministic orchestration
 - Cost-optimized cloud-native architectures
-- Failure-resilient, idempotent API designs
 
 ---
 
-## 🏗️ Core Backend Systems
+## 🏗️ Core Systems I’ve Built
 
-### 🏭 Warehouse Management System (ERP Backend)
-
-**Tech:** Rust, Axum, PostgreSQL
+### 🏭 Warehouse Management System (Enterprise ERP Backend)
+**Rust · Axum · PostgreSQL · AWS**
 
 - Multi-tenant WMS supporting **100+ warehouses**
-- Append-only inventory ledger for deterministic stock accuracy
-- Order lifecycle engine with atomic state transitions
+- Append-only inventory ledger with snapshot + replay
+- Deterministic order lifecycle state machines
 - Inbound / outbound logistics pipelines
-- Role-based access control with audit-grade logging
-- Strong consistency enforced via PostgreSQL transactions
-
-**Engineering Highlights**
-- Async Rust (Tokio) for high-concurrency workloads
-- Idempotent APIs to prevent duplicate writes
-- Schemas designed for correctness over convenience
-- Stateless services enabling horizontal scaling
+- Zone / bin–based picking optimization
+- Role-based access control with immutable audit logs
 
 **Impact**
-- **5–10× latency improvement**
-- **~70% memory reduction**
-- **~60% cloud cost reduction** after migrating critical services to Rust
+- **10× p95 latency improvement**
+- **~70% memory footprint reduction**
+- **~60% infrastructure cost reduction** after Rust migration
 
 ---
 
-### 📦 Distributed Inventory Ledger System
+### 📦 Distributed Inventory Ledger
+**Rust · PostgreSQL**
 
-**Tech:** Rust, PostgreSQL
-
-- Append-only stock movement ledger (IN / OUT / ADJUST)
-- Snapshot + replay model for fast recovery and audits
-- Deterministic inventory reconstruction
-- Safe under concurrent warehouse operations
+- Append-only stock movement system (IN / OUT / ADJUST)
+- Isolation-safe writes under concurrent workloads
+- Deterministic inventory reconstruction for audits
+- Strong transactional guarantees
 
 ---
 
 ### 🚚 Order Processing & Fulfillment Engine
+**Rust · Axum · PostgreSQL**
 
-**Tech:** Rust, Axum, PostgreSQL
-
-- Explicit, deterministic order state machine
-- Transaction-safe multi-table updates
-- Retry-safe and idempotent endpoints
-- Designed to tolerate partial system failures
-
----
-
-### 🔐 Role-Based Access Control Platform
-
-**Tech:** Rust
-
-- Fine-grained permission model (role → resource → action)
-- Strong multi-tenant isolation
-- Middleware-level authorization enforcement
-- Fully auditable permission changes
+- Explicit order state machines
+- Atomic multi-table transactions
+- Retry-safe, idempotent APIs
+- Designed to survive partial system failures
 
 ---
 
-### ⚙️ High-Throughput Internal API Gateway
+### 🧠 AI Stock Analyst (Agentic Reasoning Backend)
+**Rust · Axum · LangGraph · LangChain · PostgreSQL**
 
-**Tech:** Rust, Async IO
+- Multi-agent DAG orchestration (Market, Technical, Risk agents)
+- Consensus-based decision aggregation to reduce hallucinations
+- Explainable outputs with reasoning traces
+- Rust/Tokio-powered execution for low-latency inference
+- Stateless design for horizontal scaling
 
-- Token-based authentication
-- Rate limiting and usage tracking
-- Optimized for minimal latency and memory overhead
-- Protects downstream services during traffic spikes
+---
+
+### 🛒 High-Scale E-commerce Aggregator
+**Rust · Axum · PostgreSQL · AWS**
+
+- Unified catalog normalization across multiple vendors
+- Async ingestion pipelines with retry & fallback logic
+- Rate-limit safe vendor integrations
+- Read-heavy pricing & availability engine optimized for bursts
 
 ---
 
 ## 🧠 Engineering Philosophy
 
 - Correctness > clever abstractions  
-- Predictable systems > fast hacks  
+- Deterministic systems > probabilistic behavior  
 - Strong schemas > loose JSON contracts  
 - Fewer services > unnecessary microservices  
-- Rust where **performance and safety truly matter**
+- Rust where **performance, safety, and cost truly matter**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Rust**, SQL, JavaScript (working knowledge)
+- **Rust (Expert)**, SQL, TypeScript, JavaScript, Python, C++
 
 ### Backend & Systems
-- Axum, Tokio, async/await
-- REST API design
+- Axum, Tokio, SQLx
+- REST APIs, Microservices, Modular Monoliths
 - Concurrency & memory safety
 - Idempotency, retries, fault tolerance
-- Multi-tenant system architecture
+- Distributed systems design
 
 ### Databases
-- PostgreSQL
-- ACID transactions, isolation levels
-- Indexing & query optimization
+- PostgreSQL (partitioning, performance tuning)
+- Redis, MongoDB
+- ACID transactions & isolation levels
 
-### Cloud & Infrastructure
-- AWS (EC2, S3, IAM, CloudWatch)
-- Docker
-- Kubernetes (production-aware)
-- CI/CD pipelines
+### AI & Agent Systems
+- LangGraph, LangChain
+- OpenAI SDK, Google AI (Gemini)
+- Agentic DAG orchestration
+- Explainable AI pipelines
+
+### Cloud & DevOps
+- AWS, GCP
+- Docker, Kubernetes
+- CI/CD, GitHub Actions
+- Observability & cost optimization
+
+### Frontend (Supporting Skillset)
+- React, Next.js
+- API-driven UI integration
+- Used primarily for full ownership & collaboration
+
+### Growth & Platform Engineering
+- Programmatic SEO infrastructure
+- Google Ads & Meta Ads automation
+- Backend-driven growth systems
 
 ---
 
@@ -145,7 +152,7 @@ I design and operate **ERP-grade systems**, not demos — systems that handle **
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vicky-masai&theme=github-dark-blue"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicky-masai&layout=compact&langs_count=6&theme=algolia"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicky-masai&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
@@ -156,9 +163,10 @@ I design and operate **ERP-grade systems**, not demos — systems that handle **
 
 ## 📫 Contact
 
-- 📧 Email: hajipurtech@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/vicky-paswan/  
+- 📧 Email: **hajipurtech@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/vicky-paswan/
+- 🧑‍💻 GitHub: https://github.com/vicky-masai
 
 ---
 
-> I specialize in building backend systems that **do not break at scale**.
+> I build backend systems that **scale predictably, fail safely, and remain maintainable for years**.
