@@ -1,154 +1,137 @@
-<h1 align="center">Hi 👋, I am Vicky Kumar</h1>
-<h3 align="center">Senior Software Engineer | Backend & Distributed Systems (Rust)</h3>
+<h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
+
+<h3 align="center">
+Backend / Systems Engineer (Rust)
+</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+Engineer;Distributed+Systems;High-Concurrency+Systems;ERP+and+Fintech+Backends;Agentic+AI+Pipelines;&center=true" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+Engineer;Concurrency-Safe+Systems;Async+Workflows+%26+Queue+Systems;PostgreSQL+•+Redis+•+AWS;&center=true&width=700&height=45" />
+
 </div>
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=2)](https://visitcount.itsvg.in)
 
----
-
-## 🧠 About Me
-
-I’m **Vicky Kumar**, a **Senior Software Engineer** with **5+ years of experience** building **high-concurrency backend systems and distributed architectures** used in real production environments.
-
-My core expertise lies in **Rust-based backend engineering**, where I focus on:
-- correctness under concurrency  
-- predictable latency at scale  
-- infrastructure cost efficiency  
-- deterministic, auditable system design  
-
-Alongside Rust, I bring **strong practical experience across Node.js, cloud platforms, PostgreSQL at scale, and agentic AI systems**, enabling me to own complex systems end-to-end.
-
-I specialize in **ERP, Fintech, and high-scale E-commerce backends** — systems that handle **real traffic, real money, and real failures**.
+</div>
 
 ---
 
-## 🧩 What I Build (Systems-Level Focus)
+# 🧠 About Me
 
-- High-throughput REST & event-driven APIs
-- Distributed, stateless backend services
-- Transaction-safe systems (inventory, orders, ledgers)
-- Multi-tenant ERP platforms
-- Append-only ledger & audit systems
-- Agentic AI backends with deterministic orchestration
-- Cost-optimized cloud-native architectures
+I build production-grade backend systems using Rust, Axum, Tokio, PostgreSQL, and Redis.
 
----
+Currently working on enterprise Warehouse Management Systems (WMS) focused on:
 
-## 🏗️ Core Systems I’ve Built
+- concurrency-safe inventory workflows
+- multi-tenant backend architecture
+- async queue processing
+- transaction correctness
+- operational reliability
 
-### 🏭 Warehouse Management System (Enterprise ERP Backend)
-**Rust · Axum · PostgreSQL · AWS**
-
-- Multi-tenant WMS supporting **100+ warehouses**
-- Append-only inventory ledger with snapshot + replay
-- Deterministic order lifecycle state machines
-- Inbound / outbound logistics pipelines
-- Zone / bin–based picking optimization
-- Role-based access control with immutable audit logs
-
-**Impact**
-- **10× p95 latency improvement**
-- **~70% memory footprint reduction**
-- **~60% infrastructure cost reduction** after Rust migration
+I enjoy designing backend systems that remain predictable under load, fail safely, and stay maintainable over time.
 
 ---
 
-### 📦 Distributed Inventory Ledger
-**Rust · PostgreSQL**
+# ⚙️ What I Focus On
 
-- Append-only stock movement system (IN / OUT / ADJUST)
-- Isolation-safe writes under concurrent workloads
-- Deterministic inventory reconstruction for audits
-- Strong transactional guarantees
-
----
-
-### 🚚 Order Processing & Fulfillment Engine
-**Rust · Axum · PostgreSQL**
-
-- Explicit order state machines
-- Atomic multi-table transactions
-- Retry-safe, idempotent APIs
-- Designed to survive partial system failures
+- Backend Systems Engineering
+- Concurrency-Safe Architectures
+- Async Processing Pipelines
+- Queue-Based Workflows
+- Transactional System Design
+- Multi-Tenant Backend Systems
+- Reliability Engineering
+- Low-Latency APIs
 
 ---
 
-### 🧠 AI Stock Analyst (Agentic Reasoning Backend)
-**Rust · Axum · LangGraph · LangChain · PostgreSQL**
+# 🏗️ Projects
 
-- Multi-agent DAG orchestration (Market, Technical, Risk agents)
-- Consensus-based decision aggregation to reduce hallucinations
-- Explainable outputs with reasoning traces
-- Rust/Tokio-powered execution for low-latency inference
-- Stateless design for horizontal scaling
+## 🏭 Enterprise Warehouse Management System (WMS)
 
----
+**Rust · Axum · PostgreSQL · Redis · AWS**
 
-### 🛒 High-Scale E-commerce Aggregator
-**Rust · Axum · PostgreSQL · AWS**
-
-- Unified catalog normalization across multiple vendors
-- Async ingestion pipelines with retry & fallback logic
-- Rate-limit safe vendor integrations
-- Read-heavy pricing & availability engine optimized for bursts
+- Built concurrency-critical inventory workflows using Rust async systems
+- Designed transactional PostgreSQL workflows with tenant isolation
+- Implemented Redis queue orchestration and Pub/Sub processing
+- Built real-time inventory synchronization using WebSockets
+- Focused on operational correctness and reliability under concurrent workloads
 
 ---
 
-## 🧠 Engineering Philosophy
+## 📦 Multi-Tenant Backend Architecture
 
-- Correctness > clever abstractions  
-- Deterministic systems > probabilistic behavior  
-- Strong schemas > loose JSON contracts  
-- Fewer services > unnecessary microservices  
-- Rust where **performance, safety, and cost truly matter**
+**Rust · PostgreSQL · Redis**
 
----
-
-## 🛠️ Technical Skills
-
-### Languages
-- **Rust (Expert)**, SQL, TypeScript, JavaScript, Python, C++
-
-### Backend & Systems
-- Axum, Tokio, SQLx
-- REST APIs, Microservices, Modular Monoliths
-- Concurrency & memory safety
-- Idempotency, retries, fault tolerance
-- Distributed systems design
-
-### Databases
-- PostgreSQL (partitioning, performance tuning)
-- Redis, MongoDB
-- ACID transactions & isolation levels
-
-### AI & Agent Systems
-- LangGraph, LangChain
-- OpenAI SDK, Google AI (Gemini)
-- Agentic DAG orchestration
-- Explainable AI pipelines
-
-### Cloud & DevOps
-- AWS, GCP
-- Docker, Kubernetes
-- CI/CD, GitHub Actions
-- Observability & cost optimization
-
-### Frontend (Supporting Skillset)
-- React, Next.js
-- API-driven UI integration
-- Used primarily for full ownership & collaboration
-
-### Growth & Platform Engineering
-- Programmatic SEO infrastructure
-- Google Ads & Meta Ads automation
-- Backend-driven growth systems
+- Designed tenant-isolated backend systems with RBAC authorization
+- Built async processing pipelines using Redis queues
+- Implemented workload isolation and retry-safe processing
+- Focused on maintainable backend architecture patterns
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 AI-Powered ERP Approval Engine
+
+**LangGraph · PostgreSQL · Redis · AWS**
+
+- Built AI-driven invoice extraction and approval workflows
+- Implemented Human-in-the-Loop fallback systems
+- Added queue-based workflow orchestration
+- Improved debugging through workflow observability and tracing
+
+---
+
+# 🛠️ Technical Skills
+
+## Languages
+
+- Rust
+- TypeScript
+
+## Backend Engineering
+
+- Axum
+- Tokio
+- REST APIs
+- WebSockets
+- Async Processing
+- Background Workers
+- Queue Systems
+
+## Databases & Storage
+
+- PostgreSQL
+- Redis
+- MongoDB
+- pgvector
+
+## Distributed Systems
+
+- Multi-Tenancy
+- RBAC
+- Event-Driven Workflows
+- Concurrency Handling
+- Async Pipelines
+
+## Cloud & Infrastructure
+
+- AWS (EKS, EC2, RDS, S3)
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
+
+## AI Workflow Integration
+
+- LangGraph
+- RAG Pipelines
+- HITL Systems
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vicky-masai&theme=github-dark-blue"/>
@@ -161,12 +144,16 @@ I specialize in **ERP, Fintech, and high-scale E-commerce backends** — systems
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- 📧 Email: **hajipurtech@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/vicky-paswan/
+- 📧 Email: **hafijipurtech@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/vicky-paswan
 - 🧑‍💻 GitHub: https://github.com/vicky-masai
 
 ---
 
-> I build backend systems that **scale predictably, fail safely, and remain maintainable for years**.
+<div align="center">
+
+### I build backend systems that remain reliable, predictable, and maintainable under real production workloads.
+
+</div>
