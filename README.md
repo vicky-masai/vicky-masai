@@ -1,213 +1,136 @@
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
 
 <h3 align="center">
-Rust Backend / Systems / Security Engineer
+Founding Software Engineer | Rust | Backend & Systems | Security | Distributed Systems | AI
 </h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Systems+Engineer;Backend+%26+Distributed+Systems;Concurrency+%26+Async+Systems;Security+%26+Zero-Trust+Architecture;AI+%26+Agentic+Systems;&center=true&width=800&height=45" />
-
-</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=vicky-masai&icon=2&color=2)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Rust+Backend+%26+Systems+Engineer;Distributed+Systems+%26+Concurrency;Security+%26+Zero-Trust+Architecture;High-Performance+Backend+Systems;AI+%26+Agentic+Systems;&center=true&width=850&height=45" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 👨‍💻 About Me
 
-I am a Founding Software Engineer focused on building production-grade backend, systems, distributed, and security-oriented software using Rust.
+I’m a **Founding Software Engineer** with 4+ years of software engineering experience, focused on **backend engineering, systems programming, distributed systems, security, and AI-driven enterprise platforms**.
 
-My current engineering focus is **Rust systems programming, concurrency, asynchronous services, networking, Linux, security architecture, and distributed systems**.
+I started my career building production applications with **JavaScript/TypeScript and React**, and expanded into backend and systems engineering with **Rust, Axum, Tokio, PostgreSQL, Redis, Linux, AWS, Docker, and Kubernetes**.
 
-I also build AI-native enterprise platforms where AI agents interact with APIs, tools, workflows, enterprise data, and human approval systems.
+Today, my primary engineering direction is **Rust backend and systems engineering**, with a strong focus on **concurrency, asynchronous systems, networking, Linux, security, distributed systems, performance, and reliability**.
 
-I enjoy building systems that remain **correct under concurrency, predictable under load, secure by design, observable in production, and maintainable over time**.
+I also build **AI/Agentic enterprise platforms** where AI agents interact with APIs, tools, workflows, enterprise data, and human approval systems.
 
----
-
-# ⚙️ What I Focus On
-
-- Rust Backend & Systems Engineering
-- Memory Safety & Ownership
-- Concurrency & Async Programming
-- Tokio & High-Performance Services
-- TCP/IP, HTTP & TLS
-- Linux Systems & Networking
-- Distributed Systems
-- Authentication & Authorization
-- Zero-Trust Architecture
-- Security Engineering
-- Transactional & Fault-Tolerant Systems
-- Queue-Based & Event-Driven Architectures
-- Performance, Reliability & Observability
+I enjoy solving engineering problems where **correctness under concurrency, fault tolerance, security, scalability, and performance** matter.
 
 ---
 
-# 🏗️ Projects
+# 🧠 Core Engineering Skills
 
-## 🔐 Rust Security Engineer Roadmap
+### Rust & Systems Engineering
+`Rust` `Axum` `Tokio` `Async Rust` `Ownership` `Lifetimes` `Traits` `Generics` `Memory Safety` `Concurrency` `Threads` `Channels` `Atomics`
 
-**Rust · Tokio · Linux · Networking · Security · Distributed Systems**
+### Backend Engineering
+`REST APIs` `API Design` `Modular Monoliths` `Microservices` `Background Workers` `Event-Driven Architecture` `Queues` `WebSockets` `Authentication` `Authorization`
 
-A practical systems-security engineering program focused on becoming independently capable of designing, implementing, debugging, and explaining Rust systems without AI assistance.
+### Distributed Systems
+`Distributed Systems` `Idempotency` `Retries` `Backoff` `Backpressure` `Fault Tolerance` `Caching` `Consistency` `Message Processing` `Multi-Tenancy`
 
-Core areas:
+### Security
+`Security Engineering` `Zero Trust` `TLS` `mTLS` `PKI` `OAuth2` `JWT` `RBAC` `ABAC` `Threat Modeling` `Secure API Design` `Network Security` `Linux Security`
 
-- Rust ownership, borrowing, lifetimes and traits
-- Concurrency, atomics, Send/Sync and synchronization
-- Async Rust and Tokio
-- TCP/IP, HTTP and TLS
-- Linux processes, memory, namespaces and isolation
-- Authentication, authorization and Zero Trust
-- Threat modeling and secure architecture
-- Distributed systems and failure handling
-- Confidential computing and remote attestation
+### Databases
+`PostgreSQL` `SQLx` `Redis` `Transactions` `MVCC` `Indexes` `Query Optimization` `JSONB` `Caching` `pgvector`
 
----
+### Cloud & Infrastructure
+`AWS` `Docker` `Kubernetes` `Terraform` `Linux` `CI/CD` `Observability` `OpenTelemetry` `Prometheus` `Grafana`
 
-## 🏭 Enterprise Warehouse Management System
+### AI & Agentic Systems
+`Agentic AI` `AI Agents` `LLM Applications` `RAG` `LangGraph` `LangChain` `MCP` `AI Orchestration` `Enterprise Automation` `Human-in-the-Loop`
 
-**Rust · Axum · Tokio · PostgreSQL · Redis · AWS**
-
-- Building concurrency-critical inventory and warehouse workflows
-- Designing transactional backend workflows with tenant isolation
-- Implementing async workers and queue-based processing
-- Building real-time operational APIs and synchronization
-- Focusing on correctness, reliability and scalable backend architecture
+### Frontend
+`JavaScript` `TypeScript` `React` `Next.js` `Vite` `Tailwind CSS`
 
 ---
+
+# 🏗️ What I Build
+
+## 🏭 Enterprise WMS & Supply Chain Systems
+
+Building enterprise **Warehouse Management and Procurement platforms** using Rust and modern distributed architecture.
+
+Focus areas:
+
+- Inventory and warehouse workflows
+- Transactional backend services
+- Multi-tenant architecture
+- Async workers and queues
+- Enterprise integrations
+- Reliability and observability
+- Concurrency-safe business workflows
 
 ## 🤖 Agentic Procurement Platform
 
-**Rust · PostgreSQL · Redis · AI Agents · LangGraph · Enterprise APIs**
-
-Building an AI-native procurement orchestration platform connecting AI agents with procurement workflows, enterprise systems, SaaS applications, supplier systems and APIs.
+Building an AI-native procurement orchestration platform where **AI agents coordinate enterprise procurement workflows, APIs, ERP integrations, supplier systems, and human approvals**.
 
 Focus areas:
 
 - Agent orchestration
 - Tool/API execution
 - Workflow automation
-- Human-in-the-loop controls
 - Enterprise integrations
-- Observability and reliable execution
+- Human-in-the-loop controls
+- Reliable agent execution
+- Observability and auditability
+
+## 🔐 Rust Systems & Security Engineering
+
+Building practical Rust projects around:
+
+- Concurrent and asynchronous systems
+- TCP/IP and networking
+- TLS and secure communication
+- Linux systems programming
+- Authentication and authorization
+- Zero Trust architecture
+- Security gateways
+- Distributed systems
+- Confidential computing concepts
 
 ---
 
-# 🛠️ Technical Skills
+# 🎯 Engineering Direction
 
-## Languages
-
-- Rust
-- TypeScript
-- JavaScript
-
-## Systems & Backend
-
-- Rust
-- Axum
-- Tokio
-- REST APIs
-- TCP/IP
-- HTTP
-- TLS
-- Async Programming
-- Concurrency
-- Background Workers
-- Queue Systems
-- Event-Driven Systems
-
-## Security
-
-- Authentication & Authorization
-- RBAC / ABAC
-- Zero Trust
-- Threat Modeling
-- Secure API Design
-- TLS / PKI
-- Linux Security
-- Namespaces / cgroups
-- Confidential Computing Concepts
-
-## Databases & Storage
-
-- PostgreSQL
-- Redis
-- MongoDB
-- pgvector
-
-## Distributed Systems
-
-- Distributed Systems
-- Multi-Tenancy
-- Idempotency
-- Retries & Backoff
-- Backpressure
-- Fault Tolerance
-- Event-Driven Architecture
-
-## Cloud & Infrastructure
-
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-- Linux
-
-## AI Systems
-
-- Agentic AI
-- AI Agents
-- LLM Applications
-- RAG
-- LangGraph
-- LangChain
-- MCP
-- AI Orchestration
-- Human-in-the-Loop Systems
-
----
-
-# 🎯 Current Engineering Direction
-
-I'm focused on becoming a strong **Rust Systems & Security Engineer** with deep practical knowledge of:
+My current learning and engineering path:
 
 ```
 Rust
   ↓
-Memory & Concurrency
+Memory Safety & Concurrency
   ↓
-Async & Networking
+Async Systems & Tokio
   ↓
-Linux Systems
+Networking & Linux
   ↓
-Security
+Security Engineering
   ↓
 Distributed Systems
   ↓
 High-Performance Architecture
+  ↓
+AI / Agentic Infrastructure
 ```
 
-I am particularly interested in **secure infrastructure, zero-trust systems, confidential computing, high-performance networking, distributed systems, and AI infrastructure**.
+I’m particularly interested in **Rust systems engineering, backend infrastructure, distributed systems, network security, Zero Trust, confidential computing, high-performance networking, and AI infrastructure**.
 
 ---
 
-# 📊 GitHub Analytics
+# 💼 Open To
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vicky-masai&theme=github-dark-blue"/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicky-masai&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+I’m interested in engineering opportunities involving:
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicky-masai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
+**Rust Software Engineering · Backend Engineering · Systems Engineering · Security Engineering · Distributed Systems · Cloud Security · Network Security · AI/Agentic Infrastructure**
 
 ---
 
